@@ -1,16 +1,16 @@
 # Site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Κοραλια Αλιφραγκη
+subtitle: Ξεφωτο
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+description: Δωδεκα τραγουδια της Κοραλιας Αλιφραγκη. Κυκλοφορει απο τις εκδοσεις μετρονομος
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
-author:
+author: Orestis Fotiadis
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
 zip_code: 55555
-country: United States of America
+country: Greece
 phone: (716) 555-5555
 
 # Homepage tiles

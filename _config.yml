@@ -2,7 +2,7 @@
 title: Κοραλια Αλιφραγκη
 subtitle: Ξεφωτο
 email: youremailaddress@gmail.com
-description: Δωδεκα τραγουδια της Κοραλιας Αλιφραγκη. Κυκλοφορει απο τις εκδοσεις μετρονομος
+description: Δωδεκα τραγουδια της Κοραλιας Αλιφραγκη. Συμμετεχουν Παντελης Θαλασσινος, Γιώτα Νεγκα, Λιζετα Καλημερη, Δημητρης Υφαντης, Θοδωρης Κοτονιας, Μακης Σεβιλογλου, Ερωφιλη. Κυκλοφορει απο τις εκδοσεις Μετρονομος.
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "127.0.0.1:4000" # the base hostname & protocol for your site
 baseurl: "site" # the subpath of your site, e.g. /blog
@@ -21,15 +21,15 @@ tiles-count: 6
 
 # Social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/koralia.alifragi
 github_url:
 gitlab_url: https://gitlab.com/u/andrewbanchich
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/akoralia
 
 # Build settings
 markdown: kramdown

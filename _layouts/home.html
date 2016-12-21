@@ -30,21 +30,28 @@
     <!-- Main -->
     <div id="main">
 
-        <!-- One -->
-        {% include tiles.html %}
+        <!-- three -->
+        <section id="three">
+            <div class="inner">
+                <p>{% include youtubePlayer.html %}</p>
+            </div>
+        </section>
 
         <!-- Two -->
         <section id="two">
             <div class="inner">
                 <header class="major">
-                    <h2>Στο Ξέφωτο</h2>
+                    <h2>Ξέφωτο</h2>
                 </header>
                 <p>{{ content }}</p>
-                <ul class="actions">
+                <!-- <ul class="actions">
                     <li><a href="landing.html" class="button next">Get Started</a></li>
-                </ul>
+                </ul> -->
             </div>
         </section>
+
+                <!-- One -->
+        {% include tiles.html %}
 
     </div>
 

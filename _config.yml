@@ -3,6 +3,8 @@ title: Κοραλια Αλιφραγκη
 subtitle: Ξεφωτο
 email: youremailaddress@gmail.com
 description: Δωδεκα τραγουδια της Κοραλιας Αλιφραγκη. Κυκλοφορει απο τις εκδοσεις μετρονομος
+# baseurl: "/" # the subpath of your site, e.g. /blog
+# url: "127.0.0.1:4000" # the base hostname & protocol for your site
 baseurl: "site" # the subpath of your site, e.g. /blog
 url: "https://orestisf.github.io" # the base hostname & protocol for your site
 author: Orestis Fotiadis

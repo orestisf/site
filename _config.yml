@@ -1,7 +1,7 @@
 # Site settings
-title: Κοραλια Αλιφραγκη 234
+title: Κοραλια Αλιφραγκη
 subtitle: Ξεφωτο
-email: youremailaddress@gmail.com
+email: k.alifragi [at] gmail.com
 description: Δωδεκα τραγουδια της Κοραλιας Αλιφραγκη. Συμμετεχουν Παντελης Θαλασσινος, Γιώτα Νεγκα, Λιζετα Καλημερη, Δημητρης Υφαντης, Θοδωρης Κοτονιας, Μακης Σεβιλογλου, Ερωφιλη. Κυκλοφορει απο τις εκδοσεις Μετρονομος.
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "127.0.0.1:4000" # the base hostname & protocol for your site

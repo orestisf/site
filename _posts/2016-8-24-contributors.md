@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Συντελεστές
-description: Feugiat amet tempus
-image: assets/images/pic02.jpg
+description: musicians
+image: assets/images/ksefoto.jpg
 ---
 
 Στο ξέφωτο έδωσαν ζωή κλπ οι:

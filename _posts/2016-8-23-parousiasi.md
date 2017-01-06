@@ -2,24 +2,24 @@
 layout: post
 title: Rythmos Stage
 description: Lorem etiam nullam
-image: assets/images/parousiasi.jpg
+image: {{ site.url }}/assets/images/parousiasi.jpg
 ---
 
 <h4>Fit</h4>
-<span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span>
+<span class="image fit"><img src="{{ site.url }}/assets/images/pic03.jpg" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ site.url }}/assets/images/pic08.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ site.url }}/assets/images/pic09.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{{ site.url }}/assets/images/pic10.jpg" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ site.url }}/assets/images/pic10.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ site.url }}/assets/images/pic08.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{{ site.url }}/assets/images/pic09.jpg" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="assets/images/pic09.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ site.url }}/assets/images/pic09.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ site.url }}/assets/images/pic10.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{{ site.url }}/assets/images/pic08.jpg" alt="" /></span></div>
 	</div>
 </div>
 
